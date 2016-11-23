@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>c_Xr37&#39;s Playground by cxr37</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>c_Xr37&#39;s Playground</h1>
+        <h2>Because every bit counts...</h2>
+
+        <section id="downloads">
+          <a href="https://github.com/cxr37" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <h3>
+<a id="bienvenidos-a-mi-espacio-donde-la-seguridad-informática-y-análisis-de-entornos-vulnerables-es-el-punto-en-común" class="anchor" href="#bienvenidos-a-mi-espacio-donde-la-seguridad-inform%C3%A1tica-y-an%C3%A1lisis-de-entornos-vulnerables-es-el-punto-en-com%C3%BAn" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bienvenidos a mi espacio, donde la Seguridad Informática y Análisis de entornos vulnerables es el punto en común.</h3>
+
+<p><img src="http://onlinembapage.com/files/2013/03/information-security-mba1.jpg" alt="Information Security isn't an option, is a must!"></p>
+
+<h3>
+<a id="inseguridad-informática" class="anchor" href="#inseguridad-inform%C3%A1tica" aria-hidden="true"><span class="octicon octicon-link"></span></a>[In]Seguridad Informática</h3>
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<h3>
+<a id="vulns--flaws" class="anchor" href="#vulns--flaws" aria-hidden="true"><span class="octicon octicon-link"></span></a>Vulns &amp; Flaws?</h3>
+
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+
+<p>Find me and follow me --&gt; @franksalcido</p>
+
+<h3>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out the documentation at <a href="https://help.github.com/pages">https://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+      </section>
+    </div>
+
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-59005508-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
